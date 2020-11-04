@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+c:\users\user\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(71): warning C4717: operator>: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+c:\users\user\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(75): warning C4717: operator==: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+c:\users\user\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(80): warning C4717: operator+: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  ConsoleApplication2.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
